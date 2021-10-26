@@ -107,7 +107,7 @@
                     </button>
 
                     <!-- Topbar Search -->
-                    <h4 class="font-weight-bold text-white mx-2 my-2">PT. Test Doang</h4>
+                    <h4 class="font-weight-bold text-white mx-2 my-2">Payroll App</h4>
 
                     <!-- Topbar Navbar -->
                     <ul class="navbar-nav ml-auto">
